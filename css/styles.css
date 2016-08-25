@@ -1,0 +1,10 @@
+@font-face {
+font-family: nexa-light;
+src: url("../assets/nexa-light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: nexa-bold;
+  font-weight: bold;
+  src: url("../assets/nexa-bold.otf") format("opentype");
+}
